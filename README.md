@@ -29,4 +29,4 @@ The game ends once all cards have been correctly matched.
  ## Author
  Harsh Patel
 
- ## acknowledgement
+ ## Acknowledgement
